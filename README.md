@@ -1,5 +1,5 @@
 # Motivations
-Work in progress
+## <em>Work in progress</em>
 
 The aim of this macro is to count the number of cells using the DAPI fluorescent channel betweem the dermal and the epidermal region of a tissue. The cell detection is being performed using Stardist
 
@@ -20,7 +20,7 @@ The first button will perform a segmentation of the images. The macro will ask f
 
 ## Citations
 
-Please cite HyperStackReg if you use this macro.
+Please cite [Stardist1](https://link.springer.com/chapter/10.1007/978-3-030-00934-2_30) and [CSBDeep](https://www.nature.com/articles/s41592-018-0216-7) if you use this macro.
 
 ## Updates history
 (0.0.2) Tasks splitted into two buttons
