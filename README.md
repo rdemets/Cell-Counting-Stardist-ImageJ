@@ -5,7 +5,7 @@ The aim of this macro is to count the number of cells using the DAPI fluorescent
 
 ## How to install
 
-To install, drop the file in Fiji.app>macros>toolsets folder. Restart Fiji and the macro name will then appear under the **>>** menu on the right hand side of Fiji bar.
+To install, drop the file in `Fiji.app>macros>toolsets` folder. Restart Fiji and the macro name will then appear under the **>>** menu on the right hand side of Fiji bar.
 
 ## Requirements
 
